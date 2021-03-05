@@ -20,5 +20,4 @@ s3fs
 gcsfs
 google-cloud-storage
 termcolor
-requests
-streamlit
+chardet==3.0.4
